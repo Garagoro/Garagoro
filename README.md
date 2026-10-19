@@ -8,5 +8,5 @@
   <a href="https://github.com/Garagoro/123"><img src="mapmanager.svg" width="100%" alt="Map Manager — визуал карт для Fatality в CS2" /></a>
 </p>
 <p align="center">
-  <img src="skineditor.svg" width="100%" alt="SkinEditor — редактор скинов прямо внутри CS2" />
+  <a href="https://github.com/Garagoro/skin-editor"><img src="skineditor.svg" width="100%" alt="SkinEditor — редактор скинов прямо внутри CS2" /></a>
 </p>
