@@ -10,3 +10,6 @@
 <p align="center">
   <a href="https://github.com/Garagoro/skin-editor"><img src="skineditor.svg" width="100%" alt="SkinEditor — редактор скинов прямо внутри CS2" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/Garagoro/Urushi"><img src="urushi-pad.svg" width="100%" alt="Urushi — Lua-рантайм и шейдеры для CarX Drift Racing Online 2" /></a>
+</p>
